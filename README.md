@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muneeb Hussain Modi
 
-### 🚀 Senior Software Engineer | Backend Specialist | AI/ML Enthusiast
+### 🚀 Software Engineer | Web - AI/ML - Blockchain
 
 Welcome to my GitHub! I'm a seasoned software engineer with 5+ years of experience, focusing on architecting scalable solutions, system design, and database design. My expertise spans a wide range of technologies, including backend development, AI/ML, and DevOps.
 
