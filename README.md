@@ -38,10 +38,3 @@ My focus: turning AI from a buzzword into measured leverage. Which model for whi
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 Backend architecture, performance, and a DevOps habit: automation, observability, and infrastructure that doesn't wake you up at 3am.
-
----
-
-### 📊 GitHub
-
-![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebhashone&show_icons=true&hide_border=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebhashone&layout=compact&hide_border=true&theme=default)
